@@ -1,0 +1,53 @@
+.main{
+    height: 100vh;
+}
+
+p{
+    font-weight: 600;
+}
+
+div{
+    width: 500px;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: 
+}
+
+.header-container h1{
+    color: black;
+}
+
+.header-container p{
+    color:  plum
+}
+
+.img-container h1{
+    color: black;
+}
+
+#js-ref {
+    color: black;
+}
+
+
+
+.img-container img {
+    width: 450px;
+    height: 450px;
+}
+
+.main-container{
+    background-color: beige;
+    width: inherit;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
