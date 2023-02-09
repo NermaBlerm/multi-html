@@ -1,3 +1,3 @@
 function alerted() {
-    alert('send help something went wrong');
+    alert('TOLD YOU NOT TO PRESS!');
 }
